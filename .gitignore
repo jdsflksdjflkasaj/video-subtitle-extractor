@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+venv/
+ENV/
+env/
+
+# 模型文件和缓存
+models/
+cache/
+*.whl
+
+# 输入输出文件
+INPUT/
+OUTPUT/
+*.mp4
+*.avi
+*.mkv
+*.srt
+
+# IDE
+.vscode/
+.idea/
+*.swp
